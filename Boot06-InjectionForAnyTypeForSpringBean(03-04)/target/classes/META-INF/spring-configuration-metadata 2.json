@@ -1,0 +1,82 @@
+{
+  "groups": [
+    {
+      "name": "org.info",
+      "type": "in.krishna.comp.Employee",
+      "sourceType": "in.krishna.comp.Employee"
+    }
+  ],
+  "properties": [
+    {
+      "name": "org.info.age",
+      "type": "java.lang.String",
+      "description": "A description for 'org.info.age'"
+    },
+    {
+      "name": "org.info.company.location",
+      "type": "java.lang.String",
+      "description": "A description for 'org.info.company.location'"
+    },
+    {
+      "name": "org.info.company.strength",
+      "type": "java.lang.String",
+      "description": "A description for 'org.info.company.strength'"
+    },
+    {
+      "name": "org.info.company.title",
+      "type": "java.lang.String",
+      "description": "A description for 'org.info.company.title'"
+    },
+    {
+      "name": "org.info.emp-details.adharNo",
+      "type": "java.lang.String",
+      "description": "A description for 'org.info.emp-details.adharNo'"
+    },
+    {
+      "name": "org.info.emp-details.panNo",
+      "type": "java.lang.String",
+      "description": "A description for 'org.info.emp-details.panNo'"
+    },
+    {
+      "name": "org.info.emp-details.voterId",
+      "type": "java.lang.String",
+      "description": "A description for 'org.info.emp-details.voterId'"
+    },
+    {
+      "name": "org.info.name",
+      "type": "java.lang.String",
+      "description": "A description for 'org.info.name'"
+    },
+    {
+      "name": "org.info.phone-number[2]",
+      "type": "java.lang.String",
+      "description": "A description for 'org.info.phone-number[2]'"
+    },
+    {
+      "name": "org.info.skills[0]",
+      "type": "java.lang.String",
+      "description": "A description for 'org.info.skills[0]'"
+    },
+    {
+      "name": "org.info.skills[1]",
+      "type": "java.lang.String",
+      "description": "A description for 'org.info.skills[1]'"
+    },
+    {
+      "name": "org.info.skills[2]",
+      "type": "java.lang.String",
+      "description": "A description for 'org.info.skills[2]'"
+    },
+    {
+      "name": "org.info.skills[3]",
+      "type": "java.lang.String",
+      "description": "A description for 'org.info.skills[3]'"
+    },
+    {
+      "name": "org.info.team-members[2]",
+      "type": "java.lang.String",
+      "description": "A description for 'org.info.team-members[2]'"
+    }
+  ],
+  "hints": []
+}

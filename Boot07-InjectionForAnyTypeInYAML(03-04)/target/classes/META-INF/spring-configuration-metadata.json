@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "org.info",
+      "type": "in.krishna.comp.Employee",
+      "sourceType": "in.krishna.comp.Employee"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

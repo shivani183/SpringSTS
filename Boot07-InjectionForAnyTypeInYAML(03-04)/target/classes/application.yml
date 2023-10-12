@@ -1,0 +1,25 @@
+org:
+  info:
+    age: 20
+    company:
+      location: blr
+      strength: 5000
+      title: iNeuron
+    emp-details:
+      adharNo: 984379134
+      panNo: 134US3324
+      voterId: 89798743
+    name: Anya
+    phone-number:
+    - 9987312321
+    - 8767612321
+    - 9098329721
+    skills:
+    - java
+    - OOPs
+    - ORM
+    - JEE
+    team-members:
+    - sachin
+    - dhoni
+    - kohli
